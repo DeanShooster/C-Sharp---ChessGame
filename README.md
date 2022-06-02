@@ -20,3 +20,6 @@ The game is ongoing on the C# console but can be easily duplicated to another sy
 
 -   [C#]([https://nodejs.org/en/](https://docs.microsoft.com/en-us/dotnet/csharp/))
 
+<h2 align="center">Video</h2>
+
+https://user-images.githubusercontent.com/92792238/171568740-8f580315-f7b6-4776-930a-98efa00043a5.mp4
